@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Ivan Danov
+description: Learn. Keep it simple, keep it tea. Dream big.
+meta_description: "My Personal Blog, Blogging about technology, dreams, startups"
 
 aboutPage: true
 
@@ -9,17 +9,20 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'https://idanov.github.io/'
+google_analytics: 'UA-71919301-1'
 disqus: false
-disqus_shortname: 'your-disqus-shortname'
+disqus_shortname: 'ivandanov'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'https://idanov.github.io/'
+author:         'Ivan Danov'
+authorTwitter:  'ivandanov'
 
-permalink:       /:year/:title/
+permalink:       pretty
+
+gems:
+  - jemoji
 
 defaults:
     -
