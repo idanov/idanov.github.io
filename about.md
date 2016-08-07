@@ -8,8 +8,8 @@ I am a software engineer based in London. I received my _MSc_ in _Computer Scien
 
 I fill my long commute to work with listening to audiobook classics or reading software engineering books. I try to dedicate some of my spare time to learning more about _Machine Learning_, _Artificial Intelligence_, _Algorithms_ and _Functional Programming_. Currently my technologies of choice include _Scala_, _Akka_, _Docker_, _ReactJS_, _Jupyter_ and _SciPy_. I would love to have more free time to experiment with _Deep Learning_ using _Theano_ or _TensorFlow_. I want to make a big and positive impact on the world, but so does everyone else I guess :smile:
 
-[<img class="emoji" src="/assets/images/linkedin.svg" width=20 height=20 style="margin-bottom: -4px;"/> @ivandanov](https://linkedin.com/in/ivandanov) \
- [<img class="emoji" src="/assets/images/github.svg" width=20 height=20 style="margin-bottom: -4px;"/> @idanov](https://github.com/idanov) \
- [<img class="emoji" src="/assets/images/twitter.svg" width=20 height=20 style="margin-bottom: -4px;"/> @ivandanov](https://twitter.com/ivandanov)
+[![linkedin](/assets/images/linkedin.svg){:width="20px" height="20px" class="emoji" style="margin-bottom: -4px;"} @ivandanov](https://linkedin.com/in/ivandanov) \
+[![github](/assets/images/github.svg){:width="20px" height="20px" class="emoji" style="margin-bottom: -4px;"} @idanov](https://github.com/idanov) \
+[![twitter](/assets/images/twitter.svg){:width="20px" height="20px" class="emoji" style="margin-bottom: -4px;"} @ivandanov](https://twitter.com/ivandanov)
 
 {% include footer.html %}
